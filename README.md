@@ -31,5 +31,15 @@ The code is included in this repo.<br><br>
 ### M3 - PRM collision free path:<br>
 
 ![PRM](https://user-images.githubusercontent.com/98131995/234813017-be1d9443-e951-4066-95d4-73d7a4ce7a37.gif) <img src="https://user-images.githubusercontent.com/98131995/234811080-91b5ee2a-4bd5-4752-a334-f14e276752ed.png" width=50% height=50%><br>
-
 ![image](https://user-images.githubusercontent.com/98131995/234811312-6b2dd8a3-109b-4952-8c66-41ad7fcb6f86.png)<br><br>
+
+### M4 - RRT roadmap:<br>
+
+Only Alpha:<br>
+<img src="https://user-images.githubusercontent.com/98131995/234815818-9843aeee-35a6-49ed-84aa-9a3144121026.png" width=50% height=50%><br>
+![image](https://user-images.githubusercontent.com/98131995/234816173-feef4c87-8c8b-48bc-a205-836cf53cd7c6.png)<br><br>
+
+With Beta:<br>
+<img src="https://user-images.githubusercontent.com/98131995/234815499-a45d37da-7e40-485b-8535-3d420bdee277.png" width=50% height=50%><br>
+![image](https://user-images.githubusercontent.com/98131995/234816305-f4b58cb6-5ae1-43ff-b14b-d93ec04f7564.png)<br><br>
+
