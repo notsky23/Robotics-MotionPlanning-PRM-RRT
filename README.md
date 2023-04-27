@@ -22,7 +22,7 @@ The code is included in this repo.<br><br>
 ![Collision check](https://user-images.githubusercontent.com/98131995/234804794-a9d0423c-da91-469b-a42b-1b7e360637c8.gif)<br>
 ![image](https://user-images.githubusercontent.com/98131995/234805103-07ebc4bf-dc0b-4d7c-b578-de683460f071.png)<br><br>
 
-### M2 - Collision check:<br>
+### M2 - PRM roadmap:<br>
 
 <img src="https://user-images.githubusercontent.com/98131995/234808635-f2054c30-9136-4eb5-a04c-9f4a5fa9309e.png" width=50% height=50%><br><br><br>
 ![image](https://user-images.githubusercontent.com/98131995/234808181-4b135a6c-77bd-4b5b-bde8-e42f90289162.png)<br><br>
