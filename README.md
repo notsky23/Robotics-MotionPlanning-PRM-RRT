@@ -36,11 +36,11 @@ The code is included in this repo.<br><br>
 ### M4 - RRT roadmap:<br>
 
 Only Alpha:<br>
-<img src="https://user-images.githubusercontent.com/98131995/234815818-9843aeee-35a6-49ed-84aa-9a3144121026.png" width=50% height=50%><br>
+<img src="https://user-images.githubusercontent.com/98131995/234815818-9843aeee-35a6-49ed-84aa-9a3144121026.png" width=60% height=60%><br>
 ![image](https://user-images.githubusercontent.com/98131995/234816173-feef4c87-8c8b-48bc-a205-836cf53cd7c6.png)<br><br>
 
 With Beta:<br>
-<img src="https://user-images.githubusercontent.com/98131995/234815499-a45d37da-7e40-485b-8535-3d420bdee277.png" width=50% height=50%><br>
+<img src="https://user-images.githubusercontent.com/98131995/234815499-a45d37da-7e40-485b-8535-3d420bdee277.png" width=60% height=60%><br>
 ![image](https://user-images.githubusercontent.com/98131995/234816305-f4b58cb6-5ae1-43ff-b14b-d93ec04f7564.png)<br><br>
 
 ![RRT](https://user-images.githubusercontent.com/98131995/234817938-2a2ed893-02f2-466c-ba1f-9457eb0a0376.gif)<br><br>
