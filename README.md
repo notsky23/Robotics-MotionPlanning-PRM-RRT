@@ -4,7 +4,11 @@ HW Guide: https://github.com/notsky23/Robotics-MotionPlanning-SampleBased/blob/m
 
 ## What is this practice about?<br>
 
-This module is a practice with robot kinematics and motion planning.<br>
+This module is a practice with robot kinematics and motion planning.<br><br>
+
+We will be using 2 well known Sampling-based motion planning algorithms:<br>
+1. Probabilistic roadmaps (PRM)<br>
+2. Rapidly-exploring random trees (RRT)<br><br>
 
 ## Results:<br>
 
