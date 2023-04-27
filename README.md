@@ -33,7 +33,7 @@ The code is included in this repo.<br><br>
 ![PRM](https://user-images.githubusercontent.com/98131995/234813017-be1d9443-e951-4066-95d4-73d7a4ce7a37.gif) <img src="https://user-images.githubusercontent.com/98131995/234811080-91b5ee2a-4bd5-4752-a334-f14e276752ed.png" width=50% height=50%><br>
 ![image](https://user-images.githubusercontent.com/98131995/234811312-6b2dd8a3-109b-4952-8c66-41ad7fcb6f86.png)<br><br>
 
-### M4 - RRT roadmap:<br>
+### M4 - RRT:<br>
 
 Only Alpha:<br>
 <img src="https://user-images.githubusercontent.com/98131995/234815818-9843aeee-35a6-49ed-84aa-9a3144121026.png" width=60% height=60%><br>
@@ -45,4 +45,8 @@ With Beta:<br>
 
 ![RRT](https://user-images.githubusercontent.com/98131995/234817938-2a2ed893-02f2-466c-ba1f-9457eb0a0376.gif)<br><br>
 
+### M5 - RRT with smoothing:<br>
+
+![image](https://user-images.githubusercontent.com/98131995/234820126-b5585a29-67d1-41d8-b434-a2999908e11d.png)<br>
+![RRT w smoothing](https://user-images.githubusercontent.com/98131995/234821001-5791d375-0421-4016-bdd0-0d84674927a2.gif)<br><br>
 
