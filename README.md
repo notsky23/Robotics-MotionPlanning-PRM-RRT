@@ -29,7 +29,7 @@ The code is included in this repo.<br><br>
 
 ### M3 - PRM collision free path:<br>
 
-![image](https://user-images.githubusercontent.com/98131995/234811312-6b2dd8a3-109b-4952-8c66-41ad7fcb6f86.png)
-<img src="https://user-images.githubusercontent.com/98131995/234811080-91b5ee2a-4bd5-4752-a334-f14e276752ed.png" width=50% height=50%><br>
+<img src="https://user-images.githubusercontent.com/98131995/234811080-91b5ee2a-4bd5-4752-a334-f14e276752ed.png" width=50% height=50%>
+![PRM](https://user-images.githubusercontent.com/98131995/234810807-8d5f24f8-80e0-49dc-8ab2-3a5af6ccebb9.gif)<br>
 
-![PRM](https://user-images.githubusercontent.com/98131995/234810807-8d5f24f8-80e0-49dc-8ab2-3a5af6ccebb9.gif)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/234811312-6b2dd8a3-109b-4952-8c66-41ad7fcb6f86.png)<br><br>
