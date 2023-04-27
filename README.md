@@ -47,6 +47,6 @@ With Beta:<br>
 
 ### M5 - RRT with smoothing:<br>
 
-![image](https://user-images.githubusercontent.com/98131995/234820126-b5585a29-67d1-41d8-b434-a2999908e11d.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/234821674-354a7dcf-64d1-4809-8a9f-d6c413398aac.png)<br>
 ![RRT w smoothing](https://user-images.githubusercontent.com/98131995/234821001-5791d375-0421-4016-bdd0-0d84674927a2.gif)<br><br>
 
